@@ -12,7 +12,7 @@ The script first downloads TLE data via the API from the n2yo website based on t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/satellite-position-prediction.git
+git clone https://github.com/lstrzelczyk/ClearSky.git
 ```
 Navigate to the project directory.
 Install the required dependencies using pip:
