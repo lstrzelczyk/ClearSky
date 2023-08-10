@@ -4,6 +4,7 @@ This project provides a Python script that show live position and predicts the r
 
 The script first downloads TLE data via the API from the n2yo website based on the entered NORAD ID, then converts the satellite values into geocentric coordinates, then converts these values ​​back to geographic coordinates and determines their location on a flat map. In the meantime, it recalculates the flight route for the next few hours.
 
+![ISS](https://github.com/lstrzelczyk/ClearSky/assets/53365811/65117af9-995b-4d42-820f-41621e365317)
 
 
 ## Installation
